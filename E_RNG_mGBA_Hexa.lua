@@ -13,8 +13,6 @@ local rng_addr = 0x03005D80 -- Seed address para Esmeralda ESP/USA
 local LCRNG_MULT = 0x41C64E6D --valores para el algoritmo RNG (LCG)
 local LCRNG_ADD  = 0x6073
 local SEED_INICIAL = 0x00000000 -- Seed inicial típico en Esmeralda (seed=0)
---Si el juego es Rubi Zafiro, la semilla cuando estos tienen la batería agotada es siempre:
---local SEED_INICIAL = 0x5A0
 
 -- Variables internas
 local prev_rng, prev_frame, avance_global, last_printed_frame
