@@ -6,6 +6,7 @@ Este script muestra los avances RNG segun los frames del juego (en emulador el j
 Por defecto este script funciona para Esmeralda, pues esta configurada con la semilla 0, pero puede funcionar para los otros juegos de la generación 3, siempre y cuando se sepa su semilla. 
 
 Nota1: El "16 bits" muestra el RNG en su valor según se utiliza en las mecánicas del juego, el "Hexa" muestra el valor completo (32 bits) según resulta directamente del algoritmo PRNG (LCG).
+
 Nota2: El script lo probe con el emulador mGBA.
 
 # Créditos
