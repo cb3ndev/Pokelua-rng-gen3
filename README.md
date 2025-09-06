@@ -10,6 +10,6 @@ Por defecto este script funciona para Esmeralda, pues esta configurada con la se
 
 Nota: El script lo probe con el emulador mGBA.
 
-# Crésitos
+# Créditos
 Para hacer este script me base en este:
 https://github.com/Real96/PokeLua
